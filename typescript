@@ -1,0 +1,14 @@
+Script started on Mon Apr 21 19:32:17 2014
+[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;chin@chin-mac-mini: ~/store]1;~/store[0m[27m[24m[J[01;31m➜ [00m@mac store [33m[00m$ [K[?1h=lls[?1l>
+]2;ls -G]1;lshtml5_logo.png [34mmpi_test[39;49m[0m       [34mresource[39;49m[0m       typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;chin@chin-mac-mini: ~/store]1;~/store[0m[27m[24m[J[01;31m➜ [00m@mac store [33m[00m$ [K[?1h=wwhich ls[?1l>
+]2;which ls]1;whichls: aliased to ls -G
+[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;chin@chin-mac-mini: ~/store]1;~/store[0m[27m[24m[J[01;31m➜ [00m@mac store [33m[00m$ [K[?1h=jjava -version[?1l>
+]2;java -version]1;javajava version "1.6.0_65"
+Java(TM) SE Runtime Environment (build 1.6.0_65-b14-462-11M4609)
+Java HotSpot(TM) 64-Bit Server VM (build 20.65-b04-462, mixed mode)
+[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;chin@chin-mac-mini: ~/store]1;~/store[0m[27m[24m[J[01;31m➜ [00m@mac store [33m[00m$ [K[?1h=uuptime[?1l>
+]2;uptime]1;uptime19:32  up  6:06, 4 users, load averages: 1.19 1.61 1.73
+[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;chin@chin-mac-mini: ~/store]1;~/store[0m[27m[24m[J[01;31m➜ [00m@mac store [33m[00m$ [K[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on Mon Apr 21 19:32:39 2014
